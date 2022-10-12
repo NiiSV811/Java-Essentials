@@ -17,20 +17,3 @@ Lastest Long-Term Support realese: JDK 17
 
 [Download and Install JDK](https://www.java.com/es/download/)
 
-# VARIABLES AND DATA TYPES #
-
-Variables are like boxes, with they we can store some stuff, but in real life exist a lot of type of boxes designed to store different stuff. In java exists different data types.
-
-## PRIMITIVE DATA TYPES ##
-+ Integer: stores whole numbers e.g 5 , 20 , 125 , 300.
-  + *byte*      (8  bits)
-  + *short*     (16 bits) 
-  + *int*      (32 bits)
-  + *long*      (64 bits)
-+ Floating point: stores numbers with decimals e.g 2.41 ; 3,14159 ; 4,2.
-  + *double*   (64 bits)
-  + *float*   (32 bits)
-+ *boolean* (1 bit): Stores true or false values
-+ *char* (1 bit): Stores single characters e.g 'A' , '@' , '3' , 'z'.
-+ *String *: Stores a collection of characters e.g "Hi How are You?" , "P@ssword 1234" , "lorem ipus .."
-With this data types, we can solve a lot of problems and create 
