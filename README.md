@@ -17,20 +17,29 @@ Lastest Long-Term Support realese: JDK 17
 
 [Download and Install JDK](https://www.java.com/es/download/)
 
-# VARIABLES AND DATA TYPES #
 
-Variables are like boxes, with they we can store some stuff, but in real life exist a lot of type of boxes designed to store different stuff. In java exists different data types.
+# MENÚ #
 
-## PRIMITIVE DATA TYPES ##
-+ Integer: stores whole numbers e.g 5 , 20 , 125 , 300.
-  + *byte*      (8  bits)
-  + *short*     (16 bits) 
-  + *int*      (32 bits)
-  + *long*      (64 bits)
-+ Floating point: stores numbers with decimals e.g 2.41 ; 3,14159 ; 4,2.
-  + *double*   (64 bits)
-  + *float*   (32 bits)
-+ *boolean* (1 bit): Stores true or false values
-+ *char* (1 bit): Stores single characters e.g 'A' , '@' , '3' , 'z'.
-+ *String *: Stores a collection of characters e.g "Hi How are You?" , "P@ssword 1234" , "lorem ipus .."
-With this data types, we can solve a lot of problems and create 
++ ## Basic
+  + [ Hello World ](https://github.com/NiiSV811/Java-Essentials/blob/main/Java%20Essentials/src/essentials/basic/FirstHelloWorld.java)
+  + [ Data Types ](https://github.com/NiiSV811/Java-Essentials/blob/main/Java%20Essentials/src/essentials/basic/DataTypes.java)
+  + [ Inputs with JOption Pane](https://github.com/NiiSV811/Java-Essentials/blob/main/Java%20Essentials/src/essentials/basic/Input.java)
++ ## Operators
+  + [ Arithmetic ](https://github.com/NiiSV811/Java-Essentials/blob/main/Java%20Essentials/src/essentials/Operators/ArithmeticOperators.java)
+  + [ Comparison ](https://github.com/NiiSV811/Java-Essentials/blob/main/Java%20Essentials/src/essentials/Operators/comparisonOperators.java)
+  + [ Logical ](https://github.com/NiiSV811/Java-Essentials/blob/main/Java%20Essentials/src/essentials/Operators/LogicalOperators.java)
+  + [ Assignment](https://github.com/NiiSV811/Java-Essentials/blob/main/Java%20Essentials/src/essentials/Operators/Assignment.java)
++ ## Conditionals
+  + [ If Statement](https://github.com/NiiSV811/Java-Essentials/blob/main/Java%20Essentials/src/essentials/conditionals/IfStatement.java)
+  + [ Switch Statement ](https://github.com/NiiSV811/Java-Essentials/blob/main/Java%20Essentials/src/essentials/conditionals/SwitchCase.java)
++ ## Loops
+  + [ For loop ]( https://github.com/NiiSV811/Java-Essentials/blob/main/Java%20Essentials/src/essentials/loops/ForLoop.java)
+  + [ While loop ](https://github.com/NiiSV811/Java-Essentials/blob/main/Java%20Essentials/src/essentials/loops/WhileLoop.java)
++ ## Arrays
+  + [ Basics Arrays ](https://github.com/NiiSV811/Java-Essentials/blob/main/Java%20Essentials/src/essentials/arrays/ArraysBasics.java)
++ ## Matrices
+  + [ Basic Matrices](https://github.com/NiiSV811/Java-Essentials/blob/main/Java%20Essentials/src/essentials/matrices/BasicMatrix.java)
++ ## Classes and Objects
+  + [ Class Cat Example](https://github.com/NiiSV811/Java-Essentials/tree/main/Java%20Essentials/src/essentials/oop/catclass)
+  + [ Clas Lamp Example](https://github.com/NiiSV811/Java-Essentials/tree/main/Java%20Essentials/src/essentials/oop/lampclass)
+
