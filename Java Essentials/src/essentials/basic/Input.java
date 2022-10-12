@@ -18,21 +18,5 @@ public class Input {
         //Console output
         System.out.println("Hi " + nameInput);
 
-        //If you want to store a number, you can cast
-
-        String booksNumber;
-        String calculusGrade;
-
-        booksNumber = JOptionPane.showInputDialog("How many books you have?");
-        calculusGrade = JOptionPane.showInputDialog("What is your calculus grade?");
-
-        int numberOfBooks = Integer.parseInt(booksNumber);
-        double gradeOfCalculus = Double.parseDouble(calculusGrade);
-
-        //Now you can operate your inputs
-
-
-
-
     }
 }
